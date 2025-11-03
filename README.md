@@ -2,11 +2,21 @@
 
 # 🧠 Model Validation Assistant
 
-Currently live on Hugging Face Spaces
-https://huggingface.co/spaces/achaturvedi1/model-validation-assistant
-
 A smart assistant that helps risk modelers and validators **review, explain, and document financial models** using **LLMs, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)**.
 
+
+---
+
+## 🚀 Usage
+Currently live on Hugging Face Spaces:
+https://huggingface.co/spaces/achaturvedi1/model-validation-assistant
+
+Example model docs that can be used as input:
+https://huggingface.co/spaces/achaturvedi1/model-validation-assistant/tree/main/examples
+
+Sample Output:
+
+<img width="1341" height="667" alt="image" src="https://github.com/user-attachments/assets/4220ed9c-85b3-4fff-afb3-a15cfef124c4" />
 
 ---
 
@@ -19,7 +29,7 @@ A smart assistant that helps risk modelers and validators **review, explain, and
 ---
 
 ## 🧩 Tech Stack
-- **LangChain + LangGraph**
+- **LangChain**
 - **FAISS** for retrieval
 - **Hugging Face Transformers** as LLM backend
 - **Gradio (deployed on Hugging Face Spaces)** for automation
