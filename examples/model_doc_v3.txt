@@ -1,0 +1,12 @@
+Calculating the Average of a List in Python
+
+In data analysis, finding the average (mean) of a list of numbers is a common task.
+
+numbers = [10, 20, 30, 40, 50]
+average = sum(numbers) / len(numbers)
+print("The average is:", average)
+
+
+This snippet outputs:
+
+The average is: 30.0

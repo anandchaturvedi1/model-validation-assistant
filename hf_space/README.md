@@ -1,0 +1,1 @@
+This folder contains a minimal Gradio app ready for upload to Hugging Face Spaces.

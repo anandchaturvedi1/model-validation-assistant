@@ -1,0 +1,9 @@
+Model name: CreditScoreModel v2
+
+Assumptions:
+- Added variable employment_length
+- Retrained on 2024 data
+
+Results:
+- AUC: 0.81
+- PSI: 0.03

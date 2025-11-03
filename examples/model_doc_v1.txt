@@ -1,0 +1,9 @@
+Model name: CreditScoreModel
+
+Assumptions:
+- Default probabilities estimated from sample X
+- Logistic regression with variables age, income, balance
+
+Results:
+- AUC: 0.78
+- PSI: 0.02
