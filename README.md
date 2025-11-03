@@ -1,4 +1,4 @@
-# README WIP — known errors pending minor fixes.
+# README WIP — known errors pending fix.
 
 # 🧠 Model Validation Assistant
 
@@ -11,7 +11,7 @@ A smart assistant that helps risk modelers and validators **review, explain, and
 ---
 
 ## 🚀 Features
-- Parse model documentation (Word, PDF, SAS, Python)
+- Parse model documentation (Txt, Word, PDF, SAS, Python)
 - Summarize assumptions, inputs, and results
 - Explain regulatory or statistical terms
 - Compare model versions and highlight validation issues
