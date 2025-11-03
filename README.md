@@ -16,7 +16,8 @@ https://github.com/anandchaturvedi1/model-validation-assistant/tree/main/example
 
 Sample Output:
 
-<img width="1341" height="667" alt="image" src="https://github.com/user-attachments/assets/4220ed9c-85b3-4fff-afb3-a15cfef124c4" />
+<img width="1339" height="648" alt="image" src="https://github.com/user-attachments/assets/65a1dd09-fdda-4e7d-9777-2d7c3699ac94" />
+
 
 ---
 
