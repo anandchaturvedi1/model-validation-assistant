@@ -1,6 +1,6 @@
 # 🧠 Model Validation Assistant
 
-A smart assistant that helps risk modelers and validators **review, explain, and document financial models** using **LLMs, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)**.
+A smart assistant that helps risk modelers and validators **review, explain, and document financial models** using **LLMs, LangChain, and Retrieval-Augmented Generation (RAG)**.
 
 
 ---
