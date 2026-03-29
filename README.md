@@ -7,7 +7,7 @@ A smart assistant that helps risk modelers and validators **review, explain, and
 
 # 🚀 Usage
 Currently live on Hugging Face Spaces:
-https://huggingface.co/spaces/achaturvedi1/model-validation-assistant (To begin, you can use the ‘Restart this Space’ button)
+https://huggingface.co/spaces/achaturvedi1/model-validation-assistant (mya have to click the ‘Restart this Space’ button after opening this link)
 
 Example model docs that can be used as input:
 https://github.com/anandchaturvedi1/model-validation-assistant/tree/main/examples
