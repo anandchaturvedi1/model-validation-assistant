@@ -39,6 +39,6 @@ Sample Output 2:
 
 ---
 
-## 🧩 Current Status:
-⚠️ Toy Model – Proof of Concept
+**Current Status:**
+⚠️ Proof-of-concept (toy model)
 
